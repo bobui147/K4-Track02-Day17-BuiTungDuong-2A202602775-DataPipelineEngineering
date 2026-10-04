@@ -5,7 +5,7 @@ Phần phân tích tối đa một trang, không tính output ở phần 5.
 
 **Họ tên / MSSV:** Bùi Tùng Dương / 2A202602775
 **Repo:** https://github.com/bobui147/K4-Track02-Day17-BuiTungDuong-2A202602775-DataPipelineEngineering
-**Commit bài nộp:** Sẽ cập nhật sau commit mã nguồn đã kiểm tra.
+**Commit bài nộp:** `e85f2599071a27e0fa462a989314d1344c62e032`
 **AI đã dùng và phạm vi hỗ trợ (hoặc không dùng):** Codex — đọc luồng dữ liệu, chạy baseline, phân tích và triển khai ba cách sửa, hỗ trợ viết REPORT và chạy toàn bộ kiểm chứng; người nộp cần review, hiểu và giải thích được các thay đổi trước khi nộp.
 **Nguồn tham khảo khác (nếu có):**
 
